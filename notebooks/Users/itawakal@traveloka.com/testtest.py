@@ -11,3 +11,8 @@ a += 1
 
 # COMMAND ----------
 
+# new cell
+print 'ini isinya apa'
+
+# COMMAND ----------
+
